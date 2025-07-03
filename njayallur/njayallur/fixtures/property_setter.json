@@ -1,0 +1,18 @@
+[
+ {
+  "default_value": null,
+  "doc_type": "Sales Invoice Item",
+  "docstatus": 0,
+  "doctype": "Property Setter",
+  "doctype_or_field": "DocField",
+  "field_name": "mrp",
+  "is_system_generated": 0,
+  "modified": "2023-10-31 14:51:42.377671",
+  "module": null,
+  "name": "Sales Invoice Item-MRP-read_only",
+  "property": "read_only",
+  "property_type": null,
+  "row_name": null,
+  "value": "0"
+ }
+]

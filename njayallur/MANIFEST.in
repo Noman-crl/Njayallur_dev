@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include njayallur *.css
+recursive-include njayallur *.csv
+recursive-include njayallur *.html
+recursive-include njayallur *.ico
+recursive-include njayallur *.js
+recursive-include njayallur *.json
+recursive-include njayallur *.md
+recursive-include njayallur *.png
+recursive-include njayallur *.py
+recursive-include njayallur *.svg
+recursive-include njayallur *.txt
+recursive-exclude njayallur *.pyc
